@@ -1,0 +1,21 @@
+
+h1 {
+	text-align:center;
+	text-shadow:4px 10px 10px red;
+	font-family: bradley hand itc, Arial;
+}
+fieldset {
+	background-color:#FFF5EE;
+	box-shadow:4px 10px 10px #F5F5F5;
+	border:2px solid #C0C0C0;
+	
+}
+#liste {
+	font-family: bradley hand itc, Arial;
+}
+#resultats {
+	font-family: bradley hand itc, Arial;
+}
+body {
+	background: repeating-radial-gradient(farthest-side ellipse at center, #F0FFF0, #FFF5EE, #F0FFF0 80px);
+}

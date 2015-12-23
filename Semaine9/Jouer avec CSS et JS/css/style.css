@@ -1,0 +1,28 @@
+
+.selected {
+  background-color: orange;
+}
+
+.poubelle {
+    display: none;
+}
+h1 {
+	text-align:center;
+	text-shadow:4px 10px 10px blue;
+	
+}
+.ligne {
+	border: 2px solid black;
+	background-image: radial-gradient(circle at center,white ,#A6A9A9 );
+	border-radius:10px;
+	padding-bottom:30px;
+	margin-top:50px;
+}
+.boutton {
+	text-align:center;
+}
+body {
+	background-image: url(../img/drip.jpg);
+	background-position: top center;
+	background-attachment: fixed;
+}
