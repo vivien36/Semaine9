@@ -9,8 +9,8 @@ $resultats = document.getElementById("resultats");
 $annuler = document.getElementById("annuler");
 contacts = [{
     prenom: "Vivien",
-    nom: "DESGOURDES",
-    numero: "0670094896"
+    nom: "CMOI",
+    numero: "0600000000"
 }, {
     prenom: "Christ",
     nom: "MAS",
